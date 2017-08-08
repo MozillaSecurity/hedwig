@@ -1,0 +1,9 @@
+{
+    "mozilla-inbound": {
+      "type": "github",
+      "user": "mozilla",
+      "repo": "gecko-dev",
+      "branch": "inbound",
+      "since": 25
+    }
+}

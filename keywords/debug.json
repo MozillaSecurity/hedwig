@@ -1,0 +1,4 @@
+{
+    "WINDOW": ["nsGlobalWindow"],
+    "Fuzzing": ["fuzz"]
+}
